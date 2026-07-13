@@ -1,0 +1,15 @@
+{
+    "cantidad": 10,
+    "alumnos": [
+        { "nombre": "Juan", "apellido": "Perez", "promedio": 8.50, "materia": "Matematica" },
+        { "nombre": "Maria", "apellido": "Gomez", "promedio": 9.20, "materia": "Fisica" },
+        { "nombre": "Carlos", "apellido": "Rodriguez", "promedio": 7.10, "materia": "Programacion" },
+        { "nombre": "Ana", "apellido": "Martinez", "promedio": 8.90, "materia": "Quimica" },
+        { "nombre": "Luis", "apellido": "Fernandez", "promedio": 6.75, "materia": "Historia" },
+        { "nombre": "Sofia", "apellido": "Lopez", "promedio": 9.60, "materia": "Ingles" },
+        { "nombre": "Diego", "apellido": "Sanchez", "promedio": 7.80, "materia": "Biologia" },
+        { "nombre": "Valentina", "apellido": "Diaz", "promedio": 8.30, "materia": "Geografia" },
+        { "nombre": "Miguel", "apellido": "Torres", "promedio": 6.40, "materia": "Educacion Fisica" },
+        { "nombre": "Camila", "apellido": "Ramirez", "promedio": 9.00, "materia": "Arte" }
+    ]
+}
